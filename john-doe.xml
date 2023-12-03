@@ -1,0 +1,13 @@
+<xml>
+<contact>
+	<LAST_NAME value="Doe"/>
+	<FIRST_NAME value="John"/>
+	<FN>John Doe</FN>
+	<ORG>Example.com Inc.;</ORG>
+	<TITLE>Imaginary test person</TITLE>
+	<EMAIL value="johnDoe@example.org"/>
+	<HOME_PHONE value="+1 202 555 1212"/>
+	<NOTE>John Doe has a long and varied history\, being documented on more police files that anyone else. Reports of his death are alas numerous.
+:</NOTE>
+</contact>
+</xml>
